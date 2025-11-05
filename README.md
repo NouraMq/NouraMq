@@ -16,8 +16,17 @@ I enjoy learning, building, and exploring new technologies that make the web sma
 - ⚡ Fun fact: I love creating clean and user-friendly web experiences 🌸  
 
 ---
-
-### 📊 GitHub Stats
-![Noura's GitHub stats](https://github.com/NouraMq/NouraMq/)
-![Email](nouralmqbali@gmail.com)
+## 🔧 Tech Skill 
+**Frontend:**
+- Html , CSS ,JavaScript
+- React.js , Bootsrap
+  
+**Backend:**
+- Node.js, Express.js , REST APIs 
+- MongoDB, PostgreSQL
+    
+---
+## 📫 Let's Connect
+- LinkedIn: www.linkedin.com/in/noura-al-maqbali-a9477b26a
+- Email: nouralmqbali@gmail.com
 
